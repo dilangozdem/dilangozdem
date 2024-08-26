@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning NLP, Web Scraping and Python
 - 💞️ I’m a Master of Science student at Yıldız Technical University
 - 📫 How to reach me dilangozdemd@gmail.com
--
+
 
 <!---
 dilangozdem/dilangozdem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
